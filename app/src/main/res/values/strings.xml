@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercicio003</string>
+    <string name="txt_info">É a vez do:</string>
+    <string name="btn_1" />
+    <string name="btn_2" />
+    <string name="btn_3" />
+    <string name="btn_4" />
+    <string name="btn_5" />
+    <string name="btn_6" />
+    <string name="btn_7" />
+    <string name="btn_8" />
+    <string name="btn_9" />
+    <string name="txt_o_victory">Vitórias do O:</string>
+    <string name="txt_x_victory">Vitórias do X:</string>
+    <string name="txt_turn">X</string>
+    <string name="txt_turn_x">X</string>
+    <string name="txt_turn_o">O</string>
+</resources>
